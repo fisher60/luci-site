@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9335e0a3.css",
+    "main.js": "/static/js/main.de9f3e20.js",
+    "static/js/787.dd4029b4.chunk.js": "/static/js/787.dd4029b4.chunk.js",
+    "static/media/strawberryTransparent.png": "/static/media/strawberryTransparent.0cda6de1b1fa3c2cd6fd.png",
+    "index.html": "/index.html",
+    "main.9335e0a3.css.map": "/static/css/main.9335e0a3.css.map",
+    "main.de9f3e20.js.map": "/static/js/main.de9f3e20.js.map",
+    "787.dd4029b4.chunk.js.map": "/static/js/787.dd4029b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9335e0a3.css",
+    "static/js/main.de9f3e20.js"
+  ]
+}
